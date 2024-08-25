@@ -1,0 +1,67 @@
+
+
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.heading {
+    background-color: #007bff;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+.form-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.inputfiled label {
+    color: #007bff;
+}
+
+.inputfiled input[type="text"],
+.inputfiled input[type="telnumber"] {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.inputfiled select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.FoodCB {
+    color: #007bff;
+}
+
+.options input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.btn-secondary {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Style the table */
+.table {
+    margin-top: 20px;
+}
+
+/* Add some color to the table header */
+.table thead th {
+    background-color: #007bff;
+    color: #fff;
+}
